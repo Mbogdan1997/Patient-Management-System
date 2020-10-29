@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2857f350-4371-4718-b496-272afd5c9d0f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SYpPPpUIlZodf83sS169cNwCIk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bogdan\repos\hospital\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2857f350-4371-4718-b496-272afd5c9d0f" name="Default Changelist" comment="" />
+      <created>1571750358475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571750358475</updated>
+      <workItem from="1571750359803" duration="732000" />
+      <workItem from="1571751407767" duration="11508000" />
+      <workItem from="1571778903686" duration="29008000" />
+      <workItem from="1571860599209" duration="13333000" />
+      <workItem from="1571887613538" duration="26659000" />
+      <workItem from="1571929918772" duration="8408000" />
+      <workItem from="1571970778249" duration="19511000" />
+      <workItem from="1571991333551" duration="8492000" />
+      <workItem from="1572012062393" duration="8060000" />
+      <workItem from="1572198193225" duration="21803000" />
+      <workItem from="1572342314811" duration="1775000" />
+      <workItem from="1573041040447" duration="1230000" />
+      <workItem from="1573085196136" duration="2686000" />
+      <workItem from="1573151251432" duration="1036000" />
+      <workItem from="1573152982160" duration="7855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
